@@ -52,13 +52,13 @@ Seja bem-vindo ao meu perfil GitHub
 </div>
 <br><br>
 <div >
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luca-srd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Luca-srd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucarib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lucarib" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luca-srd&show_icons=true&locale=en&theme=tokyonight" alt="Luca-srd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucarib&show_icons=true&locale=en&theme=tokyonight" alt="Lucarib" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Luca-srd&&theme=tokyonight" alt="Luca-srd" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucarib&&theme=tokyonight" alt="Lucarib" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B75D5&height=120&section=footer"/>
