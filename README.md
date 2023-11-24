@@ -3,7 +3,8 @@
 <div>
 <h1>HELLO,DEVS!!👋</h1>
 <h3>Eu sou Lucas Ribeiro</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 Seja bem-vindo ao meu perfil GitHub
 - 🔰  Sou de Barueri/SP, Brasil.
